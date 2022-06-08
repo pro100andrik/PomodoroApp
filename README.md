@@ -1,1 +1,1 @@
-This is my React PET projects to improve my skills in ReactJS
+This is Pomodoro clock writed on ReactJS
